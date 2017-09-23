@@ -1,0 +1,6 @@
+Entrar no site: http://imageresize.org/
+Marcar Crop com Custom de 1170, 480
+Resize para 1170, 480
+Retira o Proporcional
+
+Font: http://www.cssfontstack.com/

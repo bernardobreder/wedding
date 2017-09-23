@@ -1,0 +1,1 @@
+<?php if ($db != null) mysql_close($db); ?>
